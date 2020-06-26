@@ -1,0 +1,81 @@
+{
+	"FATE": {
+		"Sheet": {
+			"TabSheet": "시트",
+			"TabBio": "일대기",
+
+			"Description": "설명",
+			"Details": "세부사항",
+			"Artwork": "그림",
+			"Biography": "일대기",
+
+			"Points": "점수",
+			"FatePoints": "운명점",
+			"Refresh": "기준치",
+			"Current": "보유량",
+
+			"HC": "정체성",
+			"Trouble": "고민",
+			"Aspects": "면모",
+			"Relationship": "협동",
+			"OtherAspect": "기타 면모",
+
+			"Skills": "기능",
+			"Extras": "특수항목",
+			"Stunts": "특기",
+
+			"Stress": "스트레스",
+			"PhysStress": "신체적 스트레스 (체력)",
+			"MentalStress": "정신적 스트레스 (의지력)",
+			"Vitals": "생명",
+
+			"Cons": {
+				"Label": "타격",
+				"Mild": "경미",
+				"Moderate": "심각",
+				"Severe": "막대",
+
+				"Physique": "체",
+				"Will": "의"
+			},
+
+			"Approaches": {
+				"Label": "방식",
+				"Careful": "세심하게",
+				"Clever": "똑똑하게",
+				"Flashy": "화려하게",
+				"Forceful": "강하게",
+				"Quick": "날쌔게",
+				"Sneaky": "은근하게"
+			}
+		},
+		"Item": {
+			"Physique": "체력",
+			"Will": "의지력",
+			"Level": "기능 등급",
+
+			"Permissions": "전제조건",
+			"Costs": "가격",
+			"Actions": "액션"
+		},
+		"Ladder": {
+			"Legendary": "전설적",
+			"Epic": "영웅적",
+			"Fantastic": "환상적",
+			"Superb": "엄청남",
+			"Great": "대단함",
+			"Good": "우수",
+			"Fair": "양호",
+			"Average": "보통",
+			"Mediocre": "미약",
+			"Poor": "부실",
+			"Terrible": "엉망"
+		},
+		"Actions": {
+			"overcome": "극복",
+			"create": "기회 만들기",
+			"attack": "공격",
+			"defend": "방어"
+		}
+	}
+}

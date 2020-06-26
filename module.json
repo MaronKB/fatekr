@@ -1,0 +1,23 @@
+{
+	"name": "fatekr",
+	"title": "FATE System Korean Localization",
+	"description": "<p>페이트 코어 / 기동형 페이트 / 페이트 컨덴스드 한국어</p>",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "0.6.0",
+	"compatibleCoreVersion": "0.6.4",
+	"author": "mrkb",
+	"esmodules": [],
+	"scripts": [],
+	"styles": ["style.css"],
+	"packs": [],
+	"languages": [
+	{
+      "lang": "ko",
+      "name": "한국어(Korean)",
+      "path": "ko.json"
+    }
+	],
+	"url": "https://github.com/MaronKB/fatekr",
+	"manifest": "https://raw.githubusercontent.com/MaronKB/fatekr/master/module.json",
+	"download": "https://github.com/MaronKB/fatekr/archive/master.zip"
+}

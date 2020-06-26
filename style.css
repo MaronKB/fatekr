@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Black+Han+Sans&family=Cute+Font&family=Do+Hyeon&family=Dokdo&family=East+Sea+Dokdo&family=Gaegu&family=Gamja+Flower&family=Gugi&family=Hi+Melody&family=Jua&family=Nanum+Gothic+Coding:wght@700&family=Nanum+Gothic:wght@700&family=Nanum+Myeongjo:wght@700&family=Nanum+Pen+Script&family=Noto+Sans+KR:wght@700&family=Noto+Serif+KR:wght@700&family=Poor+Story&family=Song+Myung&family=Stylish&family=Sunflower:wght@500&family=Yeon+Sung&display=swap');
+
+.fate.window-app .window-content h1,
+.fate.window-app .window-content h2,
+.fate.window-app .window-content h3,
+.fate.window-app .window-content button,
+.fate.window-app .window-content input[type=text],
+.fate.window-app .window-content div[contenteditable],
+.window-app .window-content {
+	font-family: 'Black Han Sans', sans-serif;
+}
+  
+#chat-log .message {
+	font-family: 'Black Han Sans', sans-serif;
+}
