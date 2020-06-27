@@ -7,9 +7,9 @@
 .fate.window-app .window-content input[type=text],
 .fate.window-app .window-content div[contenteditable],
 .window-app .window-content {
-	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Do Hyeon', sans-serif;
 }
   
 #chat-log .message {
-	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Do Hyeon', sans-serif;
 }
