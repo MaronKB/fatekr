@@ -1,7 +1,7 @@
 {
 	"name": "fatekr",
-	"title": "FATE System Korean Localization",
-	"description": "<p>페이트 코어 / 기동형 페이트 / 페이트 컨덴스드 한국어</p>",
+	"title": "Translation: Korean [FATE]",
+	"description": "<p>페이트 코어 / 기동형 페이트 / 페이트 컨덴스드 한국어화</p>",
 	"version": "1.0.0",
 	"minimumCoreVersion" : "0.6.0",
 	"compatibleCoreVersion": "0.6.4",
